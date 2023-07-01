@@ -30,9 +30,9 @@ The following technologies were used to develop the Decoder Ring application:
 - Chai
 
 ## Screenshots
-![Caesar Shift](Screenshots-for-Decoder/2023-07-01 (1).png)
-![Substitution Cipher](Screenshots-for-Decoder/2023-07-01 (3).png)
-![Polybius Square](Screenshots-for-Decoder/2023-07-01 (4).png)
+![Caesar Shift](screenshots/CaesarShift.png)
+![Substitution Cipher](screenshots/SubstitutionCipher.png)
+![Polybius Square](screenshots/PolybiusSquare.png)
 
 ## Getting Started
 
