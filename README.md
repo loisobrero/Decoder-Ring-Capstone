@@ -1,6 +1,6 @@
 # Decoder Ring
 
-This project is a part of the curriculum at Thinkful and is designed to test your ability to build complex algorithms and write unit tests using Mocha and Chai.
+I developed this project with the aim of creating an engaging webpage that incorporates encoding and decoding functionalities using various techniques, including the Caesar shift, Polybius square, and substitution cipher.
 
 ## Link:
 https://loisobrero.github.io/Decoder-Ring-Capstone/
